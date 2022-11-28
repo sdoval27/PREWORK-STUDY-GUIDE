@@ -1,2 +1,2 @@
 # sasha's-prework-study-guide
-Baby's first repo <3
+The coding study guide for baby's first repo
