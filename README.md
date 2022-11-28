@@ -1,2 +1,2 @@
 # sasha's-prework-study-guide
-Let the clowning begin >:)
+Baby's first repo <3
