@@ -1,2 +1,2 @@
 # sasha's-prework-study-guide
-The coding study guide for baby's first repo
+The Coding Bootcamp Study Guide for baby's first repo
