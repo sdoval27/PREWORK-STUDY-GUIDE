@@ -6,7 +6,7 @@
 
 - I built this study guide with the intention of documenting useful beginner's notes that describe the complex front-to-back-end components used to structure and run a functional website. These notes are not comprehensive, however they do address concepts that are vital for a novice web developer to understand when they practice coding. 
 
--This project addresses the question many coding beginners have: Where do I start? This website acts as a jumping point for those with little-to-no experience in coding, both in the act of making the site, and by providing some structure and compartmentalization to vast knowledge that exists in the Web Developing world. 
+- This project addresses the question many coding beginners have: Where do I start? This website acts as a jumping point for those with little-to-no experience in coding, both in the act of making the site, and by providing some structure and compartmentalization to vast knowledge that exists in the Web Developing world. 
 
 - In conjunction with learning the vocabulary and syntax for Git, HTML, CSS, and JavaScript, I also developed computational thinking and troubleshooting skills. I learned tips for the instances where I made mistakes and had to backtrack. As a result, some of these tips appear in my Prework Study Guide notes.
 
